@@ -2,7 +2,7 @@
 
 --> Jupyter notebook containing the code to perform prediction of reviews
 
---> Amazon fine foods dataset used.
+--> Amazon fine foods dataset used - https://www.kaggle.com/datasets/snap/amazon-fine-food-reviews
 
 ---> Naive Bayes Classifier was used
 
